@@ -9,6 +9,7 @@ Here is a text editor built using progressive web application. It implements met
 ![badmath](https://img.shields.io/badge/Registry-npm-ff69b4)
 ![badmath](https://img.shields.io/badge/Enviorment-Node.js-success)
 ![badmath](https://img.shields.io/badge/Framework-Express.js-red)
+![badmath](https://img.shields.io/badge/Package-idb-ff69b5)
 
 
 ## License
