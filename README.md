@@ -15,11 +15,6 @@ Here is a text editor built using progressive web application. It implements met
 ![badmath](https://img.shields.io/badge/License-MIT-red)
 
 ---
-## Screen Capture
-
----
-
----
 
 ## Questions
 
