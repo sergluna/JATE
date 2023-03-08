@@ -1,5 +1,5 @@
 # Just Another Text Editor
-Here is a text editor built using progressive web application. It implements methods for getting and storing date to an IndexedDB database. This is done within the idb packacge whish is a lightweight wrapper around the IndexedDB.
+Here is a text editor built using progressive web application. It implements methods for getting and storing data to an IndexedDB database. This is done within the idb package which is a lightweight wrapper around the IndexedDB.
 
 ---
 
@@ -14,11 +14,6 @@ Here is a text editor built using progressive web application. It implements met
 
 ## License
 ![badmath](https://img.shields.io/badge/License-MIT-red)
-
----
-## Screen Capture
-
----
 
 ---
 
